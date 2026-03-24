@@ -1,3 +1,5 @@
+<img width="100%" src="./assets/ga-logo.png" />
+
 # GA Singapore
 
 This organization contains **course and delivery repositories for programs run by the GA Singapore campus**.
