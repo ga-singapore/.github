@@ -31,6 +31,10 @@ To support local program delivery for remote, in-person, or campus-based cohorts
 - Maintain clear separation between cohorts
 - Add students only to relevant repositories
 
+## Website Repositories (Proposed)
+
+See the [website repository index](WEBSITE-REPOSITORIES.md) for the proposed Singapore website code, maintainer onboarding, and release model. This proposal does not change cohort repository guidance.
+
 ## Access Model
 
 - Managed by Singapore staff
