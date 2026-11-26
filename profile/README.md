@@ -31,6 +31,10 @@ To support local program delivery for remote, in-person, or campus-based cohorts
 - Maintain clear separation between cohorts
 - Add students only to relevant repositories
 
+## Website repositories
+
+Singapore website maintainers can start with the [website repository guide](https://github.com/ga-singapore/.github/blob/main/WEBSITE-REPOSITORIES.md). Website and cohort repositories are managed separately.
+
 ## Access Model
 
 - Managed by Singapore staff
